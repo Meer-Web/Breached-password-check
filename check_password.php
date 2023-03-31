@@ -59,5 +59,5 @@ if ($hitcounter != 0) {
 }
 }
 
-password_check($MySsecretPassword);
+password_check("MySsecretPassword");
 ?>
